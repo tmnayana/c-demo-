@@ -1,0 +1,6 @@
+D:\Newfolderwc\trunk\demo\demo\bin\demo.dll.config
+D:\Newfolderwc\trunk\demo\demo\bin\demo.dll
+D:\Newfolderwc\trunk\demo\demo\bin\demo.pdb
+D:\Newfolderwc\trunk\demo\demo\obj\Release\demo.csprojResolveAssemblyReference.cache
+D:\Newfolderwc\trunk\demo\demo\obj\Release\demo.dll
+D:\Newfolderwc\trunk\demo\demo\obj\Release\demo.pdb

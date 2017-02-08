@@ -1,0 +1,5 @@
+D:\Newfolderwc\trunk\demo\ApplcationDemo\bin\ApplcationDemo.dll.config
+D:\Newfolderwc\trunk\demo\ApplcationDemo\bin\ApplcationDemo.dll
+D:\Newfolderwc\trunk\demo\ApplcationDemo\bin\ApplcationDemo.pdb
+D:\Newfolderwc\trunk\demo\ApplcationDemo\obj\Release\ApplcationDemo.dll
+D:\Newfolderwc\trunk\demo\ApplcationDemo\obj\Release\ApplcationDemo.pdb

@@ -1,0 +1,17 @@
+C:\Users\20077794\Desktop\C#application\demo\ApplcationDemo\bin\ApplcationDemo.dll.config
+C:\Users\20077794\Desktop\C#application\demo\ApplcationDemo\bin\ApplcationDemo.dll
+C:\Users\20077794\Desktop\C#application\demo\ApplcationDemo\bin\ApplcationDemo.pdb
+C:\Users\20077794\Desktop\C#application\demo\ApplcationDemo\obj\Debug\ApplcationDemo.csprojResolveAssemblyReference.cache
+C:\Users\20077794\Desktop\C#application\demo\ApplcationDemo\obj\Debug\ApplcationDemo.dll
+C:\Users\20077794\Desktop\C#application\demo\ApplcationDemo\obj\Debug\ApplcationDemo.pdb
+D:\New folderwc\trunk\demo\ApplcationDemo\bin\ApplcationDemo.dll.config
+D:\New folderwc\trunk\demo\ApplcationDemo\bin\ApplcationDemo.dll
+D:\New folderwc\trunk\demo\ApplcationDemo\bin\ApplcationDemo.pdb
+D:\New folderwc\trunk\demo\ApplcationDemo\obj\Debug\ApplcationDemo.csprojResolveAssemblyReference.cache
+D:\New folderwc\trunk\demo\ApplcationDemo\obj\Debug\ApplcationDemo.dll
+D:\New folderwc\trunk\demo\ApplcationDemo\obj\Debug\ApplcationDemo.pdb
+D:\Newfolderwc\trunk\demo\ApplcationDemo\bin\ApplcationDemo.dll.config
+D:\Newfolderwc\trunk\demo\ApplcationDemo\bin\ApplcationDemo.dll
+D:\Newfolderwc\trunk\demo\ApplcationDemo\bin\ApplcationDemo.pdb
+D:\Newfolderwc\trunk\demo\ApplcationDemo\obj\Debug\ApplcationDemo.dll
+D:\Newfolderwc\trunk\demo\ApplcationDemo\obj\Debug\ApplcationDemo.pdb
